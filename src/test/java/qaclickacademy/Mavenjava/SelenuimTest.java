@@ -13,4 +13,8 @@ public class SelenuimTest {
 	public void elementsUiTest() {
 		System.out.println("elementsUiTest");
 	}
+	
+	public void elementsUiTest1() {
+		System.out.println("elementsUiTest1");
+	}
 }
